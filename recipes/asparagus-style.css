@@ -1,0 +1,13 @@
+body {
+    background-color: beige;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    height: 288px;
+    width: 288px;
+}
+
+a {
+    font-weight: bold;
+}
